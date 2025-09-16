@@ -27,3 +27,21 @@ Este proyecto surge como parte del <b>One Next Education Programa ONE – Oracle
 <li>Pulsa “Sortear amigo” y obtén al ganador. 🎉</li>
 
 <b>git clone: <a href="https://github.com/lramireztorres18-coder/Challenge-Amigo-Secreto-.git"> Challenge Amigo Secreto.</a></b>
+
+<h2> 👀 Soporte de imagenes</h2>
+
+<h3>Ingresa el nombre de los amigos que participaran</h3>
+<img width="1900" height="914" alt="amigo secreto 1" src="https://github.com/user-attachments/assets/b585adc5-04de-4cdc-a1b7-a7165bfe4bad" />
+
+
+<h3>Al ingresa el nombre dan click en <b>Añadir</b></h3>
+<img width="1901" height="910" alt="amigo secreto 2" src="https://github.com/user-attachments/assets/33f37551-8a45-4a34-ad07-70769c341ca4" />
+
+<h3>Al ingresar todos los participantes le daras al boton Sortear Amigo</h3>
+<img width="1907" height="917" alt="amigo secreto 3" src="https://github.com/user-attachments/assets/7a048384-949c-4533-b90a-0e5e35193fb5" />
+
+<h3>Finalmente se dara el dara el nombre del Amigo Secreto</h3>
+<img width="1902" height="914" alt="amigo secreto 4" src="https://github.com/user-attachments/assets/0b078caf-bffa-4ce1-9e64-03b613c741b0" />
+
+
+
