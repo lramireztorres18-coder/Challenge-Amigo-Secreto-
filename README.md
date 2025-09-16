@@ -13,13 +13,13 @@ Este proyecto surge como parte del <b>One Next Education Programa ONE – Oracle
 <li>Muestra dinámicamente los participantes.</li>
 <li>Sortea un nombre al azar con un solo clic.</li>
 
-<h3>🛠️ Tecnologías</h3>
+<h2>🛠️ Tecnologías</h2>
 
 <li>HTML5 - Estructura de la página</li>
 <li>CSS3 - Diseño y estilos</li>
 <li>JavaScript - Lógica del sorteo y validaciones</li>
 
-<h4>▶️ Uso</h4>
+<h2>▶️ Uso</h2>
 
 <li>Escribe un nombre en el campo de texto.</li>
 <li>Haz clic en “Añadir” para guardarlo en la lista.</li>
