@@ -1,3 +1,3 @@
-<hl> Juego amigo secreto </h1>
+<hl> Juego amigo secreto</h1>
 
 - estado en construcción
