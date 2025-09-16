@@ -1,6 +1,6 @@
-<h1> Sistema de registro</h1>
+<h1 align="Challenge Amigo Secreto"> Su título aquí </h1>
 
-- estado del proyecto: en construcción.
+- 
 
 para ejecutar el sistema, debes poner:
 
